@@ -30,3 +30,9 @@ img {
     margin: 20px;
     padding: 20px;
 }
+
+a{
+    text-decoration: none;
+    color: #eafbfb;
+    font-family: 'Roboto', sans-serif;
+}
