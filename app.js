@@ -1,7 +1,7 @@
 
 function download(){
 
-  var audio = new Audio('https://github.com/aswarthm/IDEA-Lab/blob/main/audio.mp3');
+  var audio = new Audio('/audio.mp3');
   audio.play();
-  window.open('https://github.com/aswarthm/IDEA-Lab/blob/main/lol.txt')
+  window.open('/lol.txt')
 }
