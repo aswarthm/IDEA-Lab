@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(37, 37, 37);
+    color: #eafbfb;
+    margin:0;
+    font-family: 'Roboto', sans-serif;
+    overflow-x:hidden;
+}
+
+.title{
+    text-align: center;
+    margin:10px;
+    font-size: 50px;
+    padding-top: 0.1em; 
+    color:#1e90ff;
+    position: sticky;
+}
+
+.stuff{
+    
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+img {
+    width: 300px;
+    margin: 20px;
+    padding: 20px;
+}
